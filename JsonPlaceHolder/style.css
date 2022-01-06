@@ -1,0 +1,9 @@
+#main-card {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 2rem;
+}
+.cardBadgeFalse {
+    border: 1px solid #000;
+    background-color: red;
+}
